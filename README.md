@@ -11,3 +11,4 @@ I wrote it with Colab, i am not familier with web scraping, so i looked for refe
 
 I hope my code help you with defencing the virus.
 and stay health. 
+![image](https://user-images.githubusercontent.com/48290954/77018867-4d7ca980-697f-11ea-9646-1092cef895ea.png)
